@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DEsingle"]
+	path = DEsingle
+	url = https://github.com/miaozhun/desingle
+	shallow = true
+	registered = true
+[submodule "scRecover"]
+	path = scRecover
+	url = https://github.com/miaozhun/screcover
+	shallow = true
+	registered = true

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "DEsingle"
+  },
+  {
+    "package": "scRecover"
+  }
+]
