@@ -8,3 +8,8 @@
 	url = https://github.com/miaozhun/desingle
 	shallow = true
 	registered = true
+[submodule "scRecover"]
+	path = scRecover
+	url = https://github.com/miaozhun/screcover
+	shallow = true
+	registered = true
